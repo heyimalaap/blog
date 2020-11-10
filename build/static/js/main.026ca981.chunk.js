@@ -1,2 +1,0 @@
-(this.webpackJsonpblog=this.webpackJsonpblog||[]).push([[0],{10:function(n,t,e){"use strict";e.r(t);var o=e(1),c=(e(0),e(3)),s=e.n(c),r=(e(9),function(){return Object(o.jsx)("h1",{children:"alaap's blog"})});s.a.render(Object(o.jsx)(r,{}),document.getElementById("root"))},9:function(n,t,e){}},[[10,1,2]]]);
-//# sourceMappingURL=main.026ca981.chunk.js.map
